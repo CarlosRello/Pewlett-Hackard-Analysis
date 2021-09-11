@@ -11,11 +11,13 @@ As shown in this table every department could be affected in the same way with t
 were born between January 1, 1952 and December 31, 1955, were hired between January 1, 1985 and December 31, 1988 and are currently working in the company.
 
 Percentage of employees to retire by department
-!alt text
+
+![Alt Text](https://github.com/CarlosRello/Pewlett-Hackard-Analysis/blob/main/Data/emp_ret.png)
 
 ## Results
 Further analysis shows employees who will retire by title.
-!alt text
+
+![Alt Text](https://github.com/CarlosRello/Pewlett-Hackard-Analysis/blob/main/Data/sum_ret_title%20(1).png)
 
 ## Summary
 With this Analysis, Human Resources Department can setup a replacement plan, starting with a mentoring plan that selects current employess that commply with the 
